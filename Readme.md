@@ -10,9 +10,9 @@ Most of these vulnerabilities is due to outdated software patches and Open servi
 
 
 ## Report Structure
-- [Scan Results](Scan_Results.md)
-- [Methodology](Methodology.md)
-- [Findings](Findings.md)
-- [Vulnerabilities Identified](Vulnerabilites.md)
-- [Remediation Recommendations](Remediation.md)
-- [Conclusion](Conclusion.md)
+- [Scan Results](01_Scan_Results.md)
+- [Methodology](02_Methodology.md)
+- [Findings](03_Findings.md)
+- [Vulnerabilities Identified](04_Vulnerabilites.md)
+- [Remediation Recommendations](05_Remediation.md)
+- [Conclusion](06_Conclusion.md)
