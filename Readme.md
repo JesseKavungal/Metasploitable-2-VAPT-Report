@@ -10,7 +10,7 @@ Most of these vulnerabilities is due to outdated software patches and Open servi
 
 
 ## Report Structure
-- [Scan Results](ScanResults.md)
+- [Scan Results](Scan Results.md)
 - [Methodology](02-Methodology.md)
 - [Findings](03-Findings.md)
 - [Vulnerabilities Identified](04-Vulnerabilites.md)
