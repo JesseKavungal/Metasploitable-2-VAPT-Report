@@ -1,4 +1,4 @@
-#Network Scanning Results
+# Network Scanning Results
 The initial subnet scan successfully identified the IP address of the target machine, Metasploitable 2, as 192.168.111.148. 
 Subsequent port scanning revealed that 30 ports were open. 
 A more aggressive scan was then conducted, uncovering the software versions associated with each service running on the open ports.
