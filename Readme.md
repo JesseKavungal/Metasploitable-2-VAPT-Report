@@ -16,3 +16,6 @@ Most of these vulnerabilities is due to outdated software patches and Open servi
 - [Vulnerabilities Identified](04_Vulnerabilites.md)
 - [Remediation Recommendations](05_Remediation.md)
 - [Conclusion](06_Conclusion.md)
+
+## Running Tests
+Run `pytest` to verify links.
