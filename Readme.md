@@ -13,9 +13,10 @@ Most of these vulnerabilities is due to outdated software patches and Open servi
 - [Scan Results](01_Scan_Results.md)
 - [Methodology](02_Methodology.md)
 - [Findings](03_Findings.md)
-- [Vulnerabilities Identified](04_Vulnerabilites.md)
+- [Vulnerabilities Identified](04_Vulnerabilities.md)
 - [Remediation Recommendations](05_Remediation.md)
 - [Conclusion](06_Conclusion.md)
 
 ## Running Tests
 Run `pytest` to verify links.
+Tests are also executed automatically via GitHub Actions on every push.

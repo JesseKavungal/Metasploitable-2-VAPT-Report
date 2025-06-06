@@ -16,5 +16,5 @@ These vulnerabilities were subsequently exploited using Metasploit, allowing fur
 This report provides comprehensive documentation, including proof of concept, detailed descriptions of the vulnerabilities identified, corresponding CVE references, and a full walkthrough of the exploitation process.
 
 ## Tools Used:
-Nmap: For network scanning and service enumeration.
-Metasploit: For exploiting identified vulnerabilities.
+- Nmap: For network scanning and service enumeration.
+- Metasploit: For exploiting identified vulnerabilities.

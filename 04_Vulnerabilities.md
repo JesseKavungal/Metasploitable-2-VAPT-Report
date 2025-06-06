@@ -1,4 +1,4 @@
-# Vulnerabilites
+# Vulnerabilities
 
 ## FTP - PORT 21
 The File Transfer Protocol (FTP) is used for transferring files between hosts over a TCP-based network. 
