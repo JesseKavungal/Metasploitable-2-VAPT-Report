@@ -1,7 +1,7 @@
 # Metasploitable 2 VAPT Report
 
 This repository contains a comprehensive penetration testing report on **Metasploitable 2**, a vulnerable virtual machine
-designed for training , practise and testing .The machine is Linux based and contains several outdated services and misconfigurations.
+designed for training , practice and testing .The machine is Linux based and contains several outdated services and misconfigurations.
 
 ## Test Outcomes
 Metasploitable 2 presents a high-risk attack surface with major critical vulnerabilities that allowed complete root access to the  systems .
